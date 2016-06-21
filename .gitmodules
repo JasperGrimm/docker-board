@@ -1,0 +1,3 @@
+[submodule "board"]
+	path = board
+	url = git@github.com:JasperGrimm/board.git
